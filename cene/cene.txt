@@ -1,0 +1,64 @@
+Hleb 35
+Djevrek 30
+Krofna 50
+Kifla 15
+Baget 30
+Zuzu 50
+MiniPizze 60
+Burek 100
+Mleko 120
+Jogurt 130
+Maslac 169
+Pavlaka 115
+Feta sir 165
+Kackavalj 1200
+Vocni jogurt 82
+Eurokrem 230
+Jaja 10
+Brasno 60
+Secer 64
+So 45
+Biber 115
+Kecap 89
+Majonez 109
+Senf 112
+Jabuke 69
+Kruske 125
+Jagode 250
+Pomorandze 99
+Limun 109
+Banane 125
+Grozdje 99
+Kivi 139
+Krompir beli 79
+Krompir crveni 79
+Paradajz 199
+Krastavac 259
+Kupus 65
+Sargarepa 59
+Sampinjoni 119
+Crni Luk 99
+Mleveno meso 799
+Cevapi 339
+Plecka 379
+Pileci file 480
+Sunka 389
+Parizer 399
+Oslic 367
+Saran 469
+Voda 59
+Gazirana Voda 39
+Pivo 55
+Vino 849
+Kola 125
+Sok Pomorandza 110
+Sok Jabuka 105
+Sok Breskva 115
+Pasta 189
+Sapun 79
+Tecni sapun 169
+Gel 289
+Deterdzent 229
+Omeksivac 259
+Prasak 599
+Sampon 319
